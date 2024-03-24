@@ -71,7 +71,7 @@ contract HelperConfig is Script {
                 callbackGasLimit: 500000,
                 link: 0xE4aB69C077896252FAFBD49EFD26B5D171A32410,
                 deployerKey: vm.envUint("PRIVATE_KEY"),
-                priceFeed: 0x0000000000000000000000000000000000000000,
+                priceFeed: 0x4aDC67696bA383F43DD60A9e78F2C97Fbbfc7cb1,
                 ccipRouter: 0xD3b06cEbF099CE7DA4AcCf578aaebFDBd6e88a93,
                 donId: bytes32("unknown")
             });
